@@ -1,0 +1,15 @@
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\pertemuan11.csproj.AssemblyReference.cache
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\pertemuan11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\pertemuan11.AssemblyInfoInputs.cache
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\pertemuan11.AssemblyInfo.cs
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\pertemuan11.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\prak11\bin\Debug\net7.0\pertemuan11.exe
+C:\Users\LENOVO\prak11\bin\Debug\net7.0\pertemuan11.deps.json
+C:\Users\LENOVO\prak11\bin\Debug\net7.0\pertemuan11.runtimeconfig.json
+C:\Users\LENOVO\prak11\bin\Debug\net7.0\pertemuan11.dll
+C:\Users\LENOVO\prak11\bin\Debug\net7.0\pertemuan11.pdb
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\pertemuan11.dll
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\refint\pertemuan11.dll
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\pertemuan11.pdb
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\pertemuan11.genruntimeconfig.cache
+C:\Users\LENOVO\prak11\obj\Debug\net7.0\ref\pertemuan11.dll
